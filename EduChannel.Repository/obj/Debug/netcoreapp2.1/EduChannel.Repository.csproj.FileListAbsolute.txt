@@ -1,0 +1,14 @@
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\bin\Debug\netcoreapp2.1\EduChannel.Repository.deps.json
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\bin\Debug\netcoreapp2.1\EduChannel.Repository.dll
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\bin\Debug\netcoreapp2.1\EduChannel.Repository.pdb
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\bin\Debug\netcoreapp2.1\EduChannel.Data.dll
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\bin\Debug\netcoreapp2.1\EduChannel.Domain.dll
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\bin\Debug\netcoreapp2.1\EduChannel.Data.pdb
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\bin\Debug\netcoreapp2.1\EduChannel.Domain.pdb
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\obj\Debug\netcoreapp2.1\EduChannel.Repository.csprojAssemblyReference.cache
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\obj\Debug\netcoreapp2.1\EduChannel.Repository.csproj.CoreCompileInputs.cache
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\obj\Debug\netcoreapp2.1\EduChannel.Repository.AssemblyInfoInputs.cache
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\obj\Debug\netcoreapp2.1\EduChannel.Repository.AssemblyInfo.cs
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\obj\Debug\netcoreapp2.1\EduChannel.Repository.csproj.CopyComplete
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\obj\Debug\netcoreapp2.1\EduChannel.Repository.dll
+C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Repository\obj\Debug\netcoreapp2.1\EduChannel.Repository.pdb
