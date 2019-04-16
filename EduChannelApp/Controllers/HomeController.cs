@@ -1,9 +1,12 @@
 ﻿using EduChannel.Domain;
 using EduChannelApp.Models;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Diagnostics;
+using System.Security.Claims;
 using System.Threading.Tasks;
 
 namespace EduChannelApp.Controllers
@@ -22,6 +25,7 @@ namespace EduChannelApp.Controllers
             return View();
         }
 
+        [Authorize]
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
@@ -48,6 +52,37 @@ namespace EduChannelApp.Controllers
 
         }
 
+        [HttpGet]
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginModel loginModel)
+        {
+            if (ModelState.IsValid)
+            {
+                var user = await userManager.FindByNameAsync(loginModel.UserName);
+
+                if (user != null && await userManager.CheckPasswordAsync(user, loginModel.Password))
+                {
+                    var identity = new ClaimsIdentity("cookies");
+
+                    identity.AddClaim(new Claim(ClaimTypes.NameIdentifier, user.Id));
+                    identity.AddClaim(new Claim(ClaimTypes.Name, user.UserName));
+
+                    await HttpContext.SignInAsync("cookies", new ClaimsPrincipal(identity));
+
+                    return RedirectToAction("Index");
+
+                }
+
+                ModelState.AddModelError("", "Invalid Username or Password");
+
+            }
+            return View();
+        }
 
         [HttpPost]
         [ValidateAntiForgeryToken]

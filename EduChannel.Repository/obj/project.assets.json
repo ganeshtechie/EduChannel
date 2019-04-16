@@ -3590,11 +3590,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gannr\\source\\repos\\EduChannel\\SourceCode\\WebApp\\EduChannelApp\\EduChannel.Repository\\EduChannel.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\gannr\\source\\repos\\EduChannel\\EduChannel.Repository\\EduChannel.Repository.csproj",
       "projectName": "EduChannel.Repository",
-      "projectPath": "C:\\Users\\gannr\\source\\repos\\EduChannel\\SourceCode\\WebApp\\EduChannelApp\\EduChannel.Repository\\EduChannel.Repository.csproj",
+      "projectPath": "C:\\Users\\gannr\\source\\repos\\EduChannel\\EduChannel.Repository\\EduChannel.Repository.csproj",
       "packagesPath": "C:\\Users\\gannr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gannr\\source\\repos\\EduChannel\\SourceCode\\WebApp\\EduChannelApp\\EduChannel.Repository\\obj\\",
+      "outputPath": "C:\\Users\\gannr\\source\\repos\\EduChannel\\EduChannel.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3613,11 +3613,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\gannr\\source\\repos\\EduChannel\\SourceCode\\WebApp\\EduChannelApp\\EduChannel.Data\\EduChannel.Data.csproj": {
-              "projectPath": "C:\\Users\\gannr\\source\\repos\\EduChannel\\SourceCode\\WebApp\\EduChannelApp\\EduChannel.Data\\EduChannel.Data.csproj"
+            "C:\\Users\\gannr\\source\\repos\\EduChannel\\EduChannel.Data\\EduChannel.Data.csproj": {
+              "projectPath": "C:\\Users\\gannr\\source\\repos\\EduChannel\\EduChannel.Data\\EduChannel.Data.csproj"
             },
-            "C:\\Users\\gannr\\source\\repos\\EduChannel\\SourceCode\\WebApp\\EduChannelApp\\EduChannel.Domain\\EduChannel.Domain.csproj": {
-              "projectPath": "C:\\Users\\gannr\\source\\repos\\EduChannel\\SourceCode\\WebApp\\EduChannelApp\\EduChannel.Domain\\EduChannel.Domain.csproj"
+            "C:\\Users\\gannr\\source\\repos\\EduChannel\\EduChannel.Domain\\EduChannel.Domain.csproj": {
+              "projectPath": "C:\\Users\\gannr\\source\\repos\\EduChannel\\EduChannel.Domain\\EduChannel.Domain.csproj"
             }
           }
         }

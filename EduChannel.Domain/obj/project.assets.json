@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gannr\\source\\repos\\EduChannel\\SourceCode\\WebApp\\EduChannelApp\\EduChannel.Domain\\EduChannel.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\gannr\\source\\repos\\EduChannel\\EduChannel.Domain\\EduChannel.Domain.csproj",
       "projectName": "EduChannel.Domain",
-      "projectPath": "C:\\Users\\gannr\\source\\repos\\EduChannel\\SourceCode\\WebApp\\EduChannelApp\\EduChannel.Domain\\EduChannel.Domain.csproj",
+      "projectPath": "C:\\Users\\gannr\\source\\repos\\EduChannel\\EduChannel.Domain\\EduChannel.Domain.csproj",
       "packagesPath": "C:\\Users\\gannr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gannr\\source\\repos\\EduChannel\\SourceCode\\WebApp\\EduChannelApp\\EduChannel.Domain\\obj\\",
+      "outputPath": "C:\\Users\\gannr\\source\\repos\\EduChannel\\EduChannel.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

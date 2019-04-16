@@ -10,3 +10,15 @@ C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChanne
 C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Data\obj\Debug\netstandard2.0\EduChannel.Data.csproj.CopyComplete
 C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Data\obj\Debug\netstandard2.0\EduChannel.Data.dll
 C:\Users\gannr\source\repos\EduChannel\SourceCode\WebApp\EduChannelApp\EduChannel.Data\obj\Debug\netstandard2.0\EduChannel.Data.pdb
+C:\Users\gannr\source\repos\EduChannel\EduChannel.Data\bin\Debug\netstandard2.0\EduChannel.Data.deps.json
+C:\Users\gannr\source\repos\EduChannel\EduChannel.Data\bin\Debug\netstandard2.0\EduChannel.Data.dll
+C:\Users\gannr\source\repos\EduChannel\EduChannel.Data\bin\Debug\netstandard2.0\EduChannel.Data.pdb
+C:\Users\gannr\source\repos\EduChannel\EduChannel.Data\bin\Debug\netstandard2.0\EduChannel.Domain.dll
+C:\Users\gannr\source\repos\EduChannel\EduChannel.Data\bin\Debug\netstandard2.0\EduChannel.Domain.pdb
+C:\Users\gannr\source\repos\EduChannel\EduChannel.Data\obj\Debug\netstandard2.0\EduChannel.Data.csprojAssemblyReference.cache
+C:\Users\gannr\source\repos\EduChannel\EduChannel.Data\obj\Debug\netstandard2.0\EduChannel.Data.csproj.CoreCompileInputs.cache
+C:\Users\gannr\source\repos\EduChannel\EduChannel.Data\obj\Debug\netstandard2.0\EduChannel.Data.AssemblyInfoInputs.cache
+C:\Users\gannr\source\repos\EduChannel\EduChannel.Data\obj\Debug\netstandard2.0\EduChannel.Data.AssemblyInfo.cs
+C:\Users\gannr\source\repos\EduChannel\EduChannel.Data\obj\Debug\netstandard2.0\EduChannel.Data.csproj.CopyComplete
+C:\Users\gannr\source\repos\EduChannel\EduChannel.Data\obj\Debug\netstandard2.0\EduChannel.Data.dll
+C:\Users\gannr\source\repos\EduChannel\EduChannel.Data\obj\Debug\netstandard2.0\EduChannel.Data.pdb
